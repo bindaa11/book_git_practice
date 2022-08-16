@@ -2,4 +2,4 @@
 
  this is my chapter 2 page 4
 
- today is first day of GIT
+edit on page 4 on chapter 2
